@@ -13,6 +13,10 @@
 ![Screenshot (2067)](https://user-images.githubusercontent.com/86683029/197684014-1337b4b3-a57d-4068-a285-be4b301aa3e9.png)
 
 # Theme-Clock
+![Screenshot (2068)](https://user-images.githubusercontent.com/86683029/197684229-6e91749c-3845-42df-aa3f-e06af7a833dd.png)
+![Screenshot (2069)](https://user-images.githubusercontent.com/86683029/197684236-f3ebfe29-f1b6-4486-b009-f8735488243f.png)
+
 
 # Toast-Notification
+
 
