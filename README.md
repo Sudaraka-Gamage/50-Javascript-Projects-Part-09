@@ -12,7 +12,6 @@
 ![Screenshot (2066)](https://user-images.githubusercontent.com/86683029/197684013-967e4f2d-e382-4c4a-b202-fd7e2e28bf9f.png)
 ![Screenshot (2067)](https://user-images.githubusercontent.com/86683029/197684014-1337b4b3-a57d-4068-a285-be4b301aa3e9.png)
 
-
 # Theme-Clock
 
 # Toast-Notification
