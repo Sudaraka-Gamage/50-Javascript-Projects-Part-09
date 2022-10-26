@@ -18,5 +18,7 @@
 
 
 # Toast-Notification
+![Screenshot (2070)](https://user-images.githubusercontent.com/86683029/197927190-628518e4-d89f-4aaf-9317-5a057e1d2d08.png)
+![Screenshot (2071)](https://user-images.githubusercontent.com/86683029/197927195-84f17f97-8e2c-4646-9243-71eb5b5607d6.png)
 
 
