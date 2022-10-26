@@ -20,5 +20,7 @@
 # Toast-Notification
 ![Screenshot (2070)](https://user-images.githubusercontent.com/86683029/197927190-628518e4-d89f-4aaf-9317-5a057e1d2d08.png)
 ![Screenshot (2071)](https://user-images.githubusercontent.com/86683029/197927195-84f17f97-8e2c-4646-9243-71eb5b5607d6.png)
-
+![Screenshot (2074)](https://user-images.githubusercontent.com/86683029/197927231-448064f9-dec6-4379-961b-64e315e1e4de.png)
+![Screenshot (2072)](https://user-images.githubusercontent.com/86683029/197927225-e5810171-d71b-4458-a783-f19d4b99fba7.png)
+![Screenshot (2073)](https://user-images.githubusercontent.com/86683029/197927228-f47e3e37-4860-424a-acab-d6e2232d867f.png)
 
